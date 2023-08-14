@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics and International Relations, University of Florida, 2018
+* M.S. in Computational Analytics, Georgia Institute of Technology, Expected 2026
 
 Work experience
 ======
@@ -27,33 +26,16 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Monken, A., Ampeh, W., Haberkorn, F., Krishnaswamy, U., Batarseh, F. A. (2022). Assuring AI Methods for Economic 	Policymaking. AI Assurance. ISBN: 9780323919197
+* Flaaen, A., Haberkorn, F., Lewis, L., Monken, A., Pierce, J., Rhodes, R., & Yi, M. (2022). Bill of lading data in international trade research with an application to the COVID-19 pandemic. Rev Int Econ, 1– 27. https://doi.org/10.1111/roie.12657
+* Wang, Y., Chandrasekaran, J., Haberkorn, F., Dong, Y., Gopinath, M., Batarseh, F. A. (2022) "DeepFarm: AI-Driven Management of Farm Production using Explainable Causality," 2022 IEEE 29th Annual Software Technology Conference (STC), Gaithersburg, MD, USA, 2022, pp. 27-36, doi: 10.1109/STC55697.2022.00013
+* Monken, A., Haberkorn, F., Gopinath, M., Freeman, L., & Batarseh, F. A. (2021). Graph Neural Networks for Modeling Causality in International Trade. The International FLAIRS Conference Proceedings, 34. https://doi.org/10.32473/flairs.v34i1.128485
+* Nir, E., Haberkorn, F., Cascaldi-Garcia, D. (2021). "International Measures of Common Inflation," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, November 05, 2021, https://doi.org/10.17016/2380-7172.3012.
+* Young, H., Monken, A., Haberkorn, F., Van Leemput, Eva. (2021). Effects of Supply Chain Bottlenecks on Prices using Textual Analysis. FEDS Notes. Washington: Board of Governors of the Federal Reserve System, December 03, 2021, https://doi.org/10.17016/2380-7172.3037.
+
