@@ -13,10 +13,3 @@ I am a research Data Scientist in the International Finance Division (Data Scien
 Research Interests
 ======
 My research areas are LLM developement, unstructured data analytics, macroeconomics, and forecasting. Broad focus on the application of artificial intelligence to improve economic policymaking.
-
-
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
