@@ -16,22 +16,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2021-ongoing: Technology Analyst (Data Scientist)
+  * Federal Reserve Board Division of International Finance (FRB)
+  * Duties included: Engaging in Policy and Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 - February 2021: Research Assistant
+  * Federal Reserve Board Division of International Finance (FRB)
+  * Duties included: Engaging in Policy and Research
+
+* March 2019 - June 2019: Quality Assurance Contractor
+  * Bethesda Softworks
+  * Duties included: Testing video games
+
+* June 2018 - November 2018: Business Data Analyst
+  * Data Targting
+  * Duties included: Data analytics and visualizations
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 * Monken, A., Ampeh, W., Haberkorn, F., Krishnaswamy, U., Batarseh, F. A. (2022). Assuring AI Methods for Economic 	Policymaking. AI Assurance. ISBN: 9780323919197
 * Flaaen, A., Haberkorn, F., Lewis, L., Monken, A., Pierce, J., Rhodes, R., & Yi, M. (2022). Bill of lading data in international trade research with an application to the COVID-19 pandemic. Rev Int Econ, 1– 27. https://doi.org/10.1111/roie.12657
 * Wang, Y., Chandrasekaran, J., Haberkorn, F., Dong, Y., Gopinath, M., Batarseh, F. A. (2022) "DeepFarm: AI-Driven Management of Farm Production using Explainable Causality," 2022 IEEE 29th Annual Software Technology Conference (STC), Gaithersburg, MD, USA, 2022, pp. 27-36, doi: 10.1109/STC55697.2022.00013
